@@ -14,12 +14,14 @@ With a strong background in **statistics and business analytics**, I care about 
 
 ### A Bit About Me:
 
-When I’m not thinking about models, I’m probably:
+When I’m not thinking about models, you’ll probably find me:
 
-* ☕️ I love good coffee
-* 🎱 find me next to the billiard table
-* 🗣️ I love long conversations with intersting people, because curiosity doesn’t stop at data.
-* A few other things, I am passionate about for 🎨painting, 🎹piano, 🏋🏻‍♀️calisthenics, 🏃🏻‍♀️running, 🧊ice bathing
+* ☕️ enjoying a really good cup of coffee
+* 🎱 leaning over a billiard table
+* 🗣️ deep in conversation with interesting people, because curiosity doesn’t stop at data
+* Or immersed in one of my creative and physical passions:
+  🎨 painting, 🧶 crocheting, 🎹 playing piano, 🏋🏻‍♀️ calisthenics, 🏃🏻‍♀️ running, and 🧊 ice bathing
+
 
 ### What This Repository Is About:
 
