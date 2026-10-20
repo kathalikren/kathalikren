@@ -5,7 +5,7 @@ I believe AI in healthcare should collaborate with humans and **not** replace th
 
 My focus lies at the intersection of:
 
-* 🧠 AI in Healthcare & Digital Twins
+* 🧠 AI in Healthcare & Clinical Simulations
 * 🔎 Explainable & Interactive AI
 * 📊 Statistical Reliability & Robustness
 * 📈 Data Visualization & Human-Centered Modeling
@@ -30,8 +30,7 @@ It’s a space where I explore, prototype, question assumptions, and build thing
 
 ### Let’s Connect:
 
-If you’re interested in healthcare AI, digital twins, explainability, or just want to chat —
-I’m always happy to connect:
+If you’re interested in healthcare AI, digital twins, explainability, or just want to chat, I’m always happy to connect:
 
 [www.linkedin.com/in/katharina-alicia-krenzer-58485b323](http://www.linkedin.com/in/katharina-alicia-krenzer-58485b323)
 
